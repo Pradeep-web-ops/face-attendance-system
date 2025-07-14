@@ -4,7 +4,8 @@ A real-time face recognition attendance system using Python, OpenCV, Deep Learni
 
 ---
 
-## 📁 Project Folder Structureattendence/
+## 📁 Project Folder Structure
+attendence/
 ├── app.py # Streamlit Web App
 ├── gui_attendance_system.py # Tkinter GUI Application
 ├── 1_datasetCreation.py # Capture face images & create dataset
@@ -25,7 +26,6 @@ A real-time face recognition attendance system using Python, OpenCV, Deep Learni
 │ └── le.pickle
 ├── dataset/
 │ └── [name]/*.png # Captured face images
-
 
 ## ✨ Features
 
@@ -57,3 +57,21 @@ A real-time face recognition attendance system using Python, OpenCV, Deep Learni
 ### ▶️ Run the GUI App:
 ```bash
 python attendence/gui_attendance_system.py
+
+🌐 Run the Streamlit Web App:
+bash
+Copy
+Edit
+cd attendence
+streamlit run app.py
+
+🔗 GitHub & LinkedIn
+💻 GitHub Repo: Click Here
+
+🔗 LinkedIn Project Post: View on LinkedIn
+
+👨‍💻 Author
+Made with 💻 by Pradeep Aili
+GitHub: @Pradeep-web-ops
+LinkedIn: Pradeep Aili
+
